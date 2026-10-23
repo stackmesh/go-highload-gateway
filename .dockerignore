@@ -1,0 +1,9 @@
+.toolchain
+.git
+bin
+dist
+*.out
+*.test
+*.prof
+coverage.*
+.env
